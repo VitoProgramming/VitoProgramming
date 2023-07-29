@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi I'm Vito 👋
+
+Passionate about the cutting-edge technologies in web development and share technical knowledge with coding enthusiasts.
 
 <!--
 **VitoProgramming/VitoProgramming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
