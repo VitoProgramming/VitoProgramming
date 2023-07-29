@@ -4,7 +4,7 @@ Passionate about the cutting-edge technologies in web development and share tech
 
 ### Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,next,styledcomponents,tailwind,vite,firebase,git,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,next,styledcomponents,tailwind,vite,firebase,git,figma)](https://skillicons.dev)
 
 <details>
 <summary>👩🏻‍💻 Recently Working on</summary>
