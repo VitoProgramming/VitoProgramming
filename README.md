@@ -1,18 +1,28 @@
-### Hi I'm Vito 👋
+### I'm Vito 👋
 
 Passionate about the cutting-edge technologies in web development and share technical knowledge with coding enthusiasts.
 
-<!--
-**VitoProgramming/VitoProgramming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages and Tools
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,next,styledcomponents,tailwind,vite,firebase,git,figma)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+<summary>👩🏻‍💻 Recently Working on</summary>
+
+<br>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VitoProgramming&repo=smart-expense&theme=ayu-mirage)](https://github.com/VitoProgramming/smart-expense)
+
+</details>
+
+<details>
+<summary>📈  Vito's GitHub Stats & Language Card</summary>
+</br>
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitoProgramming&layout=compact&langs_count=4&theme=ayu-mirage" alt="Top Languages Card" />
+
+</br>
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=VitoProgramming&count_private=true&show_icons=true&theme=ayu-mirage" alt="GitHub Stats" />
+
+</details>
